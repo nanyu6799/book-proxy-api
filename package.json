@@ -1,18 +1,9 @@
 {
   "name": "book-proxy-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "type": "module",
-  "dependencies": {
-    "express": "^5.1.0",
-    "node-fetch": "^3.3.2"
-  }
-  
+  "dependencies": {}
 }
